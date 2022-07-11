@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import './components/Task.css';
 import TaskForm from './components/TaskForm';
 import Task from './components/Task';
 import { useState } from 'react';
